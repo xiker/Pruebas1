@@ -12,7 +12,7 @@ public class Persona {
    
     public void Saludar(){
     System.out.println("Hey man 2 !!!");
-    System.out.println("hola brother, que tal estamos?¿¿?");
+    System.out.println("hola tronco!!!?¿¿?");
     System.out.println("uahahhaha");
     }
 }
