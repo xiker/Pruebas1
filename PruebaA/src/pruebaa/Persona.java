@@ -11,6 +11,7 @@ package pruebaa;
 public class Persona {
    
     public void Saludar(){
-    System.out.println("Hey man!!!");
+    System.out.println("Hey man 2 !!!");
+    System.out.println("hola colega, que tal estamos?¿¿?");
     }
 }
